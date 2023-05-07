@@ -49,6 +49,7 @@ npm run build
 - Responsive design that looks great on all devices
 - Easily customizable using Tailwind CSS utility classes
 - Lightweight and easy to use
+- Google Recaptcha On Every Form
 
 ## 📝 License
 
